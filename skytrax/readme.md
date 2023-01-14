@@ -4,7 +4,7 @@ Outputs are saved in the `Reviews` folder in `.csv`, a file for an airline.
 
 # Codes
 
-### [web_scrape_forall]() 
+### [web_scrape_forall](https://github.com/stephanie0324/Web-Scraping-/blob/main/skytrax/web_scrape_forall.ipynb) 
 * This for getting all the reviews from all airlines. 
 * All review are collected from the moment you run through the codes.
 ### [web_crawl_func](https://github.com/stephanie0324/Web-Scraping-/blob/main/skytrax/web_crawl_func.ipynb) 
