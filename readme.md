@@ -7,6 +7,7 @@ Skytrax (originally known as Inflight Research Services) is a United Kingdom–b
 
 | column        |  Values         | 注意事項|
 | ------------- |:-------------:|:-------------:|
+| airline | 航空公司  | |
 | datePublished | 發布日期  | |
 | review rating | 整體評分 |`ratingValue` (1-10) , `bestRating` (10) |
 | text_header   | 評論標題     | |
