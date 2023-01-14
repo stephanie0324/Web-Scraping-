@@ -14,4 +14,4 @@ Skytrax (originally known as Inflight Research Services) is a United Kingdom–b
 | text_header   | 評論標題     | |
 | aircraft   | 機型     | |
 |review| 評論|`verified` : Our editorial staff have inspected a copy of an e-ticket, booking details or a boarding pass, with the customer name confirming the trip written about in the review. |
-|review ratings | 其他瑣碎項目(共12項)| 放置在 `tr`| 
+|review ratings | 其他瑣碎項目(共12項)| 放置在 `tr` ，（1-5）顆星的評分機制| 
