@@ -15,3 +15,7 @@ Skytrax (originally known as Inflight Research Services) is a United Kingdom–b
 | aircraft   | 機型     | |
 |review| 評論|`verified` : Our editorial staff have inspected a copy of an e-ticket, booking details or a boarding pass, with the customer name confirming the trip written about in the review. |
 |review ratings | 其他瑣碎項目(共12項)| 放置在 `tr` ，（1-5）顆星的評分機制| 
+
+## [Indeed](https://github.com/stephanie0324/Web-Scraping-/tree/main/indeed)
+Indeed is the #1 job site in the world1 with over 350M+ unique visitors every month2. [website link](https://tw.indeed.com/?r=us)
+
