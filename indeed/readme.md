@@ -3,11 +3,11 @@ There are two ver. of web scraping that I've created.
 
 # Codes
 
-### [web_scrape_forall](https://github.com/stephanie0324/Web-Scraping-/blob/main/skytrax/web_scrape_forall.ipynb) 
-* This for getting all the reviews from all airlines. 
-* All review are collected from the moment you run through the codes.
-### [web_crawl_func](https://github.com/stephanie0324/Web-Scraping-/blob/main/skytrax/web_crawl_func.ipynb) 
-* This version allows people to get reviews after a specific date, which means that you can flexiblely add new datas to your files without 
-having to go through all the reviews every time you want to scrape some infos from the website. 
+### [Get Company Names](https://github.com/stephanie0324/Web-Scraping-/blob/main/indeed/Get_company_names.ipynb)
+* This for getting all the alias for the same company on Indeed web, though they represent the same company they have different website (e.g. TSMC 、台積電、台灣積體電路⋯⋯)
+* This creates a dictionary to contain all the alias.
+* Using the English stock name of the company, can get a more precise result
+### [indeed web scrape](https://github.com/stephanie0324/Web-Scraping-/blob/main/indeed/Indeed%20web_scrape.ipynb) 
+* Get all the review under the company
 
 
