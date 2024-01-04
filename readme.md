@@ -19,3 +19,14 @@ Skytrax (originally known as Inflight Research Services) is a United Kingdom–b
 ## [Indeed](https://github.com/stephanie0324/Web-Scraping-/tree/main/indeed)
 Indeed is the #1 job site in the world1 with over 350M+ unique visitors every month2. [website link](https://tw.indeed.com/?r=us)
 
+## [Pet Widsom Medicine](pet-widsom-medicine)
+Wisdom Pet Medicine is a fictitious company that offers veterinary and grooming services for its clients. [website link](http://thisisasite.net/)
+
+> This is a project form LinkedIn Learning, to develop a web application by gathering data from web scraping.
+
+| column        |  Values         
+| ------------- |:-------------:|
+| title| 網頁名稱  | 
+| phone no. | 公司電話  | 
+|  staff | 員工名稱 / 職稱/ 其他事項|  
+|testimonial| 評論|
