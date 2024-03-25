@@ -1,5 +1,14 @@
 # About
-I'm trying to build 3 real world python applications with LinkedIn Learning, combing both web-scrape and data analystics.
+This is a project form LinkedIn Learning, to develop a web application by gathering data from web scraping.
+
+# Crawled Data
+
+| column        |  Values         
+| ------------- |:-------------:|
+| title| 網頁名稱  | 
+| phone no. | 公司電話  | 
+|  staff | 員工名稱 / 職稱/ 其他事項|  
+|testimonial| 評論|
 
 # Codes
 ### [web scrape](pet-widsom-medicine/web_scrape.py)
