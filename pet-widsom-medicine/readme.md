@@ -1,5 +1,6 @@
 # About
 This is a project form LinkedIn Learning, to develop a web application by gathering data from web scraping.
+<<<<<<< HEAD
 
 # Crawled Data
 
@@ -9,7 +10,16 @@ This is a project form LinkedIn Learning, to develop a web application by gather
 | phone no. | 公司電話  | 
 |  staff | 員工名稱 / 職稱/ 其他事項|  
 |testimonial| 評論|
+=======
+>>>>>>> 31df14e28a75712aff7b73e4aa93996365e4698d
 
+# Crawled Data
+| column        |  Values         
+| ------------- |:-------------:|
+| title| 網頁名稱  | 
+| phone no. | 公司電話  | 
+|  staff | 員工名稱 / 職稱/ 其他事項|  
+|testimonial| 評論|
 # Codes
 ### [web scrape](pet-widsom-medicine/web_scrape.py)
 This is where we implement webscraping with request and beautiful soup
